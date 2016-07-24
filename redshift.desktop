@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Redshift
+Comment=Color temperature adjustment tool
+Exec=/usr/bin/redshift -c /home/anjjan/Public/redshift.conf
+Terminal=false
+Type=application
+StartupNotify=false
